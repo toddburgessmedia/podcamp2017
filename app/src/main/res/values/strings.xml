@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PodCamp Android App</string>
+    <string name="power_connect">Power Connected! :)</string>
 </resources>
