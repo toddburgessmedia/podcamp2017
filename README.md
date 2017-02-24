@@ -1,6 +1,9 @@
-# podcamp2017
+# Podcamp 2017 Toronto Android Example and Notes
 Podcamp 2017 speaking notes and code
 
-Speaking Notes Can be Found Here:
+# Speaking Notes Can be Found Here:
+[SlideShare Slides are Here](https://www.slideshare.net/ToddBurgess/introduction-to-android-app-development-72556854)
+
+
 
 
