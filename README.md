@@ -8,9 +8,9 @@ Podcamp 2017 speaking notes and code
 
 ## Twitter: @tburgess57
 
-## (Facebook:)[https://www.facebook.com/tburgess57]
+## [Facebook:](https://www.facebook.com/tburgess57)
 
-## (LinkedIn)[https://ca.linkedin.com/in/toddwburgess]
+## [LinkedIn](https://ca.linkedin.com/in/toddwburgess)
 
 
 
